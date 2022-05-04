@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfJoanna
-- 👀 I’m interested in PHP, specifically Laravel development, front-end web design and development, JavaScript
+- 👀 I’m interested in web in general, PHP, specifically Laravel development, front-end web design and development, JavaScript
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me: doubaj [at] algonquincollege.com
 
